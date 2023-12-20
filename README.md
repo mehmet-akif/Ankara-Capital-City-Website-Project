@@ -15,7 +15,7 @@ Bootstrap design:
 ![Ankara Website Demo](path_to_your_website_image.png)
 
 
-For an interactive experience, check out the live website [here]([https://www.your-website-url.com](https://cs.torontomu.ca/~asipahi/lab03.html)).
+For an interactive experience, check out the live website [here](https://cs.torontomu.ca/~asipahi/lab03.html).
 
 ## Features
 - Bootstrap-based design for structured layout
