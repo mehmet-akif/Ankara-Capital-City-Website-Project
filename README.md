@@ -40,3 +40,6 @@ For an interactive experience, check out the live website: https://cs.torontomu.
 
 ## Usage
 Explore the different design approaches by navigating through the pages developed using Bootstrap and responsive design. Compare and contrast the aesthetics and functionality of both designs.
+
+## License
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). To view a copy of this license, visit the link above or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
