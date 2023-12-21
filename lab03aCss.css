@@ -1,0 +1,89 @@
+/* partA.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #504d4d;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container img{
+    max-width: 100%;
+    height: auto; /* Use auto for responsive images */
+}
+
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1;
+    margin: 10px;
+    background-color: #333;
+    border: none;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-text {
+    color: #fff;
+}
+
+.layered-element {
+    position: relative;
+    z-index: 2;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+footer{
+    font-family: Arial, sans-serif;
+    background-color: #504d4d;
+}
+
+/* Media Queries for Responsiveness */
+@media screen and (max-width: 768px) {
+    /* Tablet Styles */
+    .container {
+        padding: 10px;
+    }
+
+    .card {
+        flex: 1 0 calc(50% - 20px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    /* Mobile Styles */
+    header {
+        font-size: 24px;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    .card {
+        flex: 1 0 calc(100% - 20px);
+    }
+}
