@@ -3,17 +3,7 @@
 ## Description
 Welcome to the Ankara Capital City Website Project! This project offers an immersive journey into Ankara, the vibrant capital city of Turkey. Showcasing Ankara's rich history, cultural heritage, and iconic landmarks, this website presents the city through two unique design approaches: Bootstrap-based design for structured layout and responsive design with a fluid grid for adaptability.
 
-## Screenshots
-
-Main page:
-![Ankara Website Demo](path_to_your_website_image.png)
-
-Responsive design(fluid-grid):
-![Ankara Website Demo](path_to_your_website_image.png)
-
-Bootstrap design:
-![Ankara Website Demo](path_to_your_website_image.png)
-
+## Link
 
 For an interactive experience, check out the live website: https://cs.torontomu.ca/~asipahi/lab03.html 
 
